@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,WACE,kBACF,CAEA,OACE,kBACF","file":"style.031f00f1.css","sourceRoot":"..\\src","sourcesContent":["\r\n.form_padd {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.field {\r\n  margin-bottom: 20px;\r\n}\r\n"]}
